@@ -21,5 +21,3 @@ def speak_to_grandma(grandma)
     puts "HUH?! SPEAK UP, SONNY!"
   end
 end
-
-speak_to_grandma
